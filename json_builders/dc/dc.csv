@@ -1,2 +1,2 @@
-code,value_1,value_2,value_3,kcs_step_0,kcs_step_1,kcs_step_2
+code,expression,sq_diff,result,kcs_step_0,kcs_step_1,kcs_step_2
 dc9,81x^2-9y^2,(9x)^2-(3y)^2,(9x-3y)(9x+3y)
